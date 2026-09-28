@@ -9,6 +9,7 @@ gehostet lokal über **playit.gg** (kein Port-Forwarding nötig).
 |---|---|
 | [docs/01-SERVER-MODS-UND-SETUP.md](docs/01-SERVER-MODS-UND-SETUP.md) | **Der Plan:** Welche Mods (Server & Client), Lizenzen/Open-Source, Setup Schritt für Schritt |
 | [docs/02-DREAM-DISPLAYS-TECHNIK.md](docs/02-DREAM-DISPLAYS-TECHNIK.md) | **Technik-Deep-Dive:** Wie die Display-Mod innen funktioniert (Rust-Decoder, Sync-Protokoll, YouTube-Trick) + die Wahrheit über Ingame-Browser & uBlock |
+| [docs/03-ENGINE-VOLLSTAENDIG.md](docs/03-ENGINE-VOLLSTAENDIG.md) | **Der volle Walkthrough:** Sprachen-Statistik, alle 18 Module, Lebenszyklus vom Command bis zum Pixel, v2-Protokoll, Rust-ABI, Akustik-Engine |
 
 ## ⚡ Schnellstart
 
